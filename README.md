@@ -50,4 +50,4 @@ Thank you for reading and taking the time to get to know me.
 This section will be reserved and updated for skills I learn over time and will updated on a regular basis
 
 Skills:
-Active Directory
+- Active Directory
