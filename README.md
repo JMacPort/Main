@@ -6,7 +6,7 @@ Come time, I would like to have more projects here and also create a small blog 
 
 The past few years, since the beginning of the covid restrictions, I traded and researched a lot of crypto. Through the knowledge I gained doing that, I noticed the massive importance on security while still providing a functional experience. This led me to
 researching features that Solidity has and what security measures are put in place. While I can't write much Solidty, but I taught myself how to research the functions included in the smart contracts. These range from selling taxes to distribution methods.
-Since around June of 2022 I cared less about crypto and more about digital security. Researching attack vectors, policies and regulations, cloud computing, previous large data breaches and more. 
+Since around June of 2022 I pivoted to learning more about digital security. Researching attack vectors, policies and regulations, cloud computing, previous large data breaches and more. 
 All of this led me to decide to go back to school at 22 years old. I found a local community college that offered the program and have been there for just over a year. 
 
 So far school has taught me:
