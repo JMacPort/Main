@@ -51,3 +51,6 @@ This section will be reserved and updated for skills I learn over time and will 
 
 Skills:
 - Active Directory
+- Entra ID (Azure AD)
+- Cybersecurity Frameworks
+
