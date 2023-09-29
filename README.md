@@ -37,7 +37,7 @@ Goals I have for this year:
 - Continue self learning 
 
 In 4-5 years I would like to:
-- Have CISSP and CISA certifications
+- Have CISSP and CySA+ certifications
 - Hopefully be working in a Cybersecurity Analyst position (or higher)
 - Build out more home labs and practice via CTFs
 - Nail down the career direction I would like to take. 
