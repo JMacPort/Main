@@ -29,7 +29,7 @@ The paths I already have started or completed are:
 - Cyber Defense (Halfway Completed)
   
 Goals I have for this year:
-- Get an entry level help desk role
+- Gain at least an entry level help desk role, perferrably an SOC T1 Analyst
 - Get at minimum my Security+ certification, ideally Network+ and A+ as well.
 - Graduate with an Associates
 - Deeper unstanding of Python for automation
