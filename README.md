@@ -5,11 +5,11 @@ a PC will be much more fulfilling.
 Come time, I would like to have more projects here and also create a small blog site for tutorials and security write ups. 
 
 The past few years, since the beginning of the covid restrictions, I traded and researched a lot of crypto. Through the knowledge I gained doing that, I noticed the massive importance on security while still providing a functional experience. This led me to
-researching features that Solidity has and what security measures are put in place. While I can't write much Solidty, but I taught myself how to research the functions included in the smart contracts. These range from selling taxes to distribution methods.
-Since around June of 2022 I pivoted to learning more about digital security. Researching attack vectors, policies and regulations, cloud computing, previous large data breaches and more. 
+researching features that Solidity has and what security measures are put in place. While I can't write much Solidty, but I taught myself how to look through the functions included in the smart contracts. These range from selling taxes to distribution methods.
+Since around June of 2021 I pivoted to learning more about digital security. Researching attack vectors, policies and regulations, cloud computing, previous large data breaches and more. 
 All of this led me to decide to go back to school at 22 years old. I found a local community college that offered the program and have been there for just over a year. 
 
-So far school has taught me:
+**So far school has taught me**:
 - Secure Cisco Router/Switch setup
 - Using Packet Tracer to build network topologies
 - Basic network cabling
@@ -22,13 +22,22 @@ So far school has taught me:
 While in school I also have done a lot of self learning mostly on tryhackme. This taught me a lot of concepts regarding cybersecurity and even other operating systems like Unix based OS. It also taught me the various jobs and roles that different 
 positions may entail. Currently in tryhackme I am working through the SOC Tier 1 path.
 
-The paths I already have started or completed are: 
+**The paths I already have started or completed are**: 
 - Introduction to Cybersecurity (Completed)
 - Pre Security (Completed)
 - SOC Tier 1 (1/3 done)
 - Cyber Defense (Halfway Completed)
+
+This section will be reserved and updated for skills I learn over time and will updated on a regular basis.
+
+**Skills**:
+- Active Directory
+- Frameworks - Cyber Kill Chain, Mitre ATT&CK, Diamond Model
+- Azure Suite - Sentinel, Log Analytic Workspaces, Microsoft Defender, Entra ID, Virtual Machines, Resource Groups, etc.
+- Vulnerability Management Software - Nessus, (OpenVAS soon)
+- Basic Powershell
   
-Goals I have for this year:
+**Goals I have for this year**:
 - Gain at least an entry level help desk role, perferrably an SOC T1 Analyst
 - Get at minimum my Security+ certification, ideally Network+ and A+ as well.
 - Graduate with an Associates
@@ -36,7 +45,7 @@ Goals I have for this year:
 - Start configuring a home lab with VMs
 - Continue self learning 
 
-In 4-5 years I would like to:
+**In 4-5 years I would like to**:
 - Have CISSP and CySA+ certifications
 - Hopefully be working in a Cybersecurity Analyst position (or higher)
 - Build out more home labs and practice via CTFs
@@ -47,14 +56,6 @@ evolving and growing on a daily basis. This is something that was a strong desir
 
 Thank you for reading and taking the time to get to know me. 
 
-This section will be reserved and updated for skills I learn over time and will updated on a regular basis
-
-Skills:
-- Active Directory
-- Frameworks - Cyber Kill Chain, Mitre ATT&CK, Diamond Model
-- Azure Suite - Sentinel, Log Analytic Workspaces, Microsoft Defender, Entra ID, Virtual Machines, Resource Groups, etc.
-- Vulnerability Management Software - Nessus, (OpenVAS soon)
-- Basic Powershell
   
 
 
