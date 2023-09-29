@@ -51,6 +51,14 @@ This section will be reserved and updated for skills I learn over time and will 
 
 Skills:
 - Active Directory
-- Entra ID (Azure AD)
-- Cybersecurity Frameworks
+- Frameworks - Cyber Kill Chain, Mitre ATT&CK, Diamond Model
+- Azure Suite - Sentinel, Log Analytic Workspaces, Microsoft Defender, Entra ID, Virtual Machines, Resource Groups, etc.
+- Vulnerability Management Software - Nessus, (OpenVAS soon)
+- Basic Powershell
+  
+
+
+
+
+
 
