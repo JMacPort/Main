@@ -20,8 +20,8 @@ All of this led me to decide to go back to school at 22 years old. I found a loc
 - Encryption/Decryption/Hashing algorithms
 
 **Certifications**:
-Security+ Expires October 4, 2026
-Google IT Support (From school)
+- Security+ Expires October 4, 2026
+- Google IT Support (From school)
 
 **Skills**:
 - Active Directory
