@@ -30,10 +30,10 @@ All of this led me to decide to go back to school at 22 years old. I found a loc
   
 **Goals I have for this year**:
 - Gain at least an entry level help desk role, perferrably an SOC T1 Analyst
-- Get at minimum my Security+ certification, ideally Network+ and A+ as well.
+- Get at minimum my Security+ certification (Completed), ideally Network+ and A+ as well.
 - Graduate with an Associates
-- Deeper unstanding of Python for automation
-- Start configuring a home lab with VMs
+- Deeper unstanding of Python for automation (Started)
+- Start configuring a home lab with VMs (Soon)
 - Continue self learning 
 
 **In 4-5 years I would like to**:
