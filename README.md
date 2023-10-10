@@ -1,8 +1,6 @@
 This account will serve as a directory for the home labs and projects I create while in school (and maybe future). Currently, I am in my second semester at a local community college in their IT: Cybersecurity program, so a little over halfway to an Associates Degree. 
-Along with going to school, I simultaneously studied for the Security+ exam which I have just completed on October 4th.  
-While I do not have a formal IT background, I have worked with computers since I was 10 or so and have had a strong passion since. Soon, I plan to build my first PC as in the past years I have either just upgraded the CPU/GPU or installed more RAM so I think building
-a PC will be much more fulfilling. 
-Come time, I would like to have more projects here and also create a small blog site for tutorials and security write ups. 
+Along with going to school, I simultaneously studied for the Security+ exam which I have just completed on October 4th. While I do not have a formal IT background, I have worked with computers since I was 10 or so and have had a strong passion since. Soon, I plan to build 
+my first PC as in the past years I have either just upgraded the CPU/GPU or installed more RAM so I think building a PC will be much more fulfilling. Come time, I would like to have more projects here and also create a small blog site for tutorials and security write ups. 
 
 Midway of the covid restrictions, I lost my job due to layoffs which led me to start researching career paths. With the knowledge I gained doing that, I discovered many different tech jobs and researched various jobs within the field. I was immediately drawn in to the 
 security side of IT and started to figure out what I would need to learn to gain a role in this field. There seemed to be a general consensus that one would need to have a few years of experience in entry level IT, gain some certifications and then it may be possible to transition in. 
